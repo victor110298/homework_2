@@ -1,4 +1,4 @@
-package Man;
+package man;
 // Task 2.4
 
 public final class Man {
